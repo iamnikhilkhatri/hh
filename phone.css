@@ -5,8 +5,10 @@
     overflow: hidden;
 }
 #home h1 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
+    text-align: center;
 }
+
 #home p {
     font-size: 1rem;
 }
@@ -23,16 +25,16 @@
 }
 
 #client img {
-    height: 37px;
+    height: 17px;
 }
 
 #navbar ul li a{
-    padding: 3px 15px;
+    padding: 3px 8px;
 }
 #navbar ul li {
     font-size: 1rem;
 }
 
-#client-item{
-    padding: 25px;
+.client-item{
+    padding: 7px;
 }
